@@ -1,0 +1,9 @@
+{
+	"name": "myeclassdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bd1e68ba-d84f-4ae1-ab17-6631d16dab8f",
+		"tenantId": "b776cba4-e5b8-4cd1-aabd-7326540fd845"
+	}
+}
